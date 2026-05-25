@@ -39,8 +39,12 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 **Procedure**
+1. Create a new project in Quartus II software.
+2. Type the Verilog program for Full Adder and Full Subtractor.
+3. Compile the program and view the RTL schematic.
+4. Create nodes for inputs and outputs to generate the timing waveform.
+5. For different input combinations generate the timing waveform and verify the outputs with the truth table.
 
-Write the detailed procedure here
 
 **Program:**
 
