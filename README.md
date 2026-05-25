@@ -37,6 +37,11 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+**Full Adder:**
+<img width="429" height="395" alt="image" src="https://github.com/user-attachments/assets/5ba5971f-b9b7-4c1f-b7ab-96f7a5e79dc8" />
+
+**Full Subtractor:**
+<img width="438" height="393" alt="image" src="https://github.com/user-attachments/assets/a69d078e-9a7b-45ce-af45-28b2826fb60d" />
 
 **Procedure**
 1. Create a new project in Quartus II software.
