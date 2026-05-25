@@ -63,8 +63,8 @@ Developed by: RAAGHAVI S  RegisterNumber: 212225040321
 ```
 module DE1Exp3(sum, carry, a, b, cin);
 
-output sum,carry;
 input a,b,cin;
+output sum,carry;
 
 wire w1,w2,w3;
 
