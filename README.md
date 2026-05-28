@@ -46,7 +46,7 @@ Borrow out = A'Bin + A'B + BBin
 
 <img width="438" height="393" alt="image" src="https://github.com/user-attachments/assets/a69d078e-9a7b-45ce-af45-28b2826fb60d" />
 
-**Procedure**
+**Procedure:**
 1. Create a new project in Quartus II software.
 2. Type the Verilog program for Full Adder and Full Subtractor.
 3. Compile the program and view the RTL schematic.
@@ -55,7 +55,8 @@ Borrow out = A'Bin + A'B + BBin
 
 
 **Program:**
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by: RAAGHAVI S  RegisterNumber: 212225040321
 */
 
